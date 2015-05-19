@@ -26,7 +26,7 @@ public class TestLinkedList {
 		System.out.println(testList);
 		System.out.println("Length of linked list = " + testList.length()); //expect 3		
 		
-		System.out.println("6! = " + testList.factorial(5));
+		System.out.println("5! = " + testList.factorial(5));
 		System.out.println("10! = " + testList.factorial(12));
 		
 		
